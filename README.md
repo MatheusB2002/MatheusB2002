@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/rfdGwGc/Bem-Vindo-5.gif" width=1000> 
+![banner](https://i.ibb.co/rfdGwGc/Bem-Vindo-5.gif)
 
 Mais 
 conteúdo 
