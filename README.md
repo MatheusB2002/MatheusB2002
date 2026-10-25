@@ -1,5 +1,4 @@
 ![banner](https://i.ibb.co/tJnJsJB/Bem-Vindo-5.gif)
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Matheus%20Barbosa&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=An%C3%A1lise%20de%20Dados%20%C2%B7%20BI%20%C2%B7%20SQL&descSize=22&descAlignY=58" alt="Matheus Barbosa" />
@@ -115,12 +114,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e formado em um bootcamp
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusB2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusB2002&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=MatheusB2002&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
-
 
 </div>
 
